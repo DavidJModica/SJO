@@ -1,0 +1,9 @@
+{
+  "app": {
+    "jwtKey": "wW2vdSkkh6vnybbtjRK7MSVOJVkHc1myYdhBaElyi2v5UtAQehGRjgutxNT7pOu",
+    "url": "http://localhost:8000"
+  },
+  "mailgun": {
+    "apiKey": "key-85a765ffa444d06c79667a79e4f96694"
+  }
+}

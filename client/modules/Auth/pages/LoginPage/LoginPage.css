@@ -1,0 +1,9 @@
+.login-button {
+  display: inline-block;
+  margin-top: 15px;
+  margin-right: 10px;
+}
+
+.text-field {
+  width: 300px;
+}

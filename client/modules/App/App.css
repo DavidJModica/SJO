@@ -1,0 +1,10 @@
+.container {
+  max-width: 980px;
+  width: 100%;
+  margin: 0 auto;
+  min-height: calc(100vh - 136px);
+  box-sizing: border-box;
+  padding: 15px;
+  padding-bottom: 64px;
+  position: relative;
+}

@@ -1,0 +1,60 @@
+.single-quote {
+  padding: 0 15px;
+  border-radius: 2px;
+}
+
+.quote-text {
+  font-size: 28px;
+  font-weight: 400;
+  color: #616161;
+  vertical-align: middle;
+  display: inline-block;
+  font-style: italic;
+}
+
+.quote-text a {
+  text-decoration: none;
+  color: #616161;
+}
+
+.quote-author {
+  font-size: x-small;
+  color: #888;
+  text-transform: uppercase;
+  padding: 0 10px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.quote-action {
+  background-color: #FA1F2F;
+}
+
+.quote-action a{
+  color: #555;
+  text-decoration: none;
+  font-size: 14px;
+  font-style: italic;
+}
+
+.quote-action a:hover{
+  color: #EF5350;
+}
+
+.divider{
+  border: 0;
+  height: 1px;
+  background: #ccc;
+  width: 250px;
+  margin: 15px auto;
+}
+
+.quote-detail .quote-text{
+  font-size: 42px;
+  color: #454545;
+}
+
+.quote-detail .quote-author{
+  font-size: 16px;
+  color: #555;
+}

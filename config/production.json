@@ -1,0 +1,9 @@
+{
+  "app": {
+    "jwtKey": "7HTRA7O3ZEPXvOFehjnseTeskOHWERFJ1xWyun3MQZX5aN19r9qnWTMVMeYxNeb",
+    "url": "https://salesjournalonline.com"
+  },
+  "mailgun": {
+    "apiKey": "key-85a765ffa444d06c79667a79e4f96694"
+  }
+}

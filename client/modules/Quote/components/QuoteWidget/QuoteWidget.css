@@ -1,0 +1,18 @@
+.quote-holder {
+  margin: 15px auto;
+  text-align: center;
+}
+
+.quote-text {
+  font-style: italic;
+  font-size: large;
+}
+
+.quote-author {
+  text-transform: uppercase;
+  font-size: x-small;
+}
+
+.hide {
+  display: none;
+}

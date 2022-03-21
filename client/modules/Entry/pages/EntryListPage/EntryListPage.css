@@ -1,0 +1,11 @@
+.add-entry-button {
+  margin: 0 0 15px 0;
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
