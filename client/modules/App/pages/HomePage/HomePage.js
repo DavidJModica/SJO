@@ -37,7 +37,7 @@ class HomePage extends Component {
             </Grid>
             <Grid item xs={12} lg={6}>
               <strong>People I Need to Contact Today (no matter what)</strong> – The primary function
-              of the SDR role is to book meetings with the right people. Writing down their
+              of the Sales Development Rep role is to book meetings with the right people. Writing down their
               names will keep us focused on who we can’t let slip through the cracks.
             </Grid>
             <Grid item xs={12} lg={6}>
